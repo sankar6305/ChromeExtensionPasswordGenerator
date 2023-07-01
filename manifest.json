@@ -1,0 +1,14 @@
+{
+    "name": "PasswordGenerator",
+    "version": "0.0.1",
+    "author": "Sankar",
+    "description": "Password Generator",
+    "manifest_version": 3,
+    "action": {
+        "default_title": "Generate Password",
+        "default_popup": "popup.html",
+        "default_icon": {
+            "16": "icon1.png"
+        }
+    }
+}
